@@ -1,0 +1,15 @@
+{
+    "url": "http://download.transterpreter.org/files/",
+    "Mac OS X": {
+        "dev" : {
+            "version": "20110201.1720",
+            "url": "dev/mac/Transterpreter-mac-dev-20110201.1720.zip"
+        }
+    },
+    "Windows": {
+        "dev": {
+            "version": "20110201.1855",
+            "url": "dev/win/zip/Transterpreter-win-dev-20110201.1855.zip"  
+        }
+    }
+}

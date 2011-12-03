@@ -1,0 +1,15 @@
+
+
+* JSON url needed for the download feed (may break current code due to requirement for external pull, but is fixable!)
+    * Longer term solution to this involves moving releases to Github (& probably code off CSProjects)
+    * Pygments lexer from (_modules) into pygments main to get highlighting support on Github
+
+* Wider todo - migrate the site to blueprint instead of 960.gs
+
+* Documentation - MCJ raises the point that some things become messy/confused due to uncertainty - some documentation around common tasks on the site would help (also using cleaner markup to be able to use current pages as examples, obviously the organic growth on pages wasn't anticipated in stylesheets/templates etc.)
+
+* Additional resources link on docs page not linked up.
+* Freeduino quickstart guide not present?
+* Some PDF's and a generator script in 'pdf' relating to Wikipedia import & format
+* ISSUE: Feed urls changed from feed/atom feed/rss to feed/atom.xml feed/rss.xml
+* ISSUE: Lots of pages changed urls from  ../page to ../page.html
